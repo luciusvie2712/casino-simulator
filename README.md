@@ -142,21 +142,6 @@ Xem chi tiết tại file `database-schema.sql`.
 
 ---
 
-## ⏱ Lộ trình phát triển
-
-| Giai đoạn | Công việc                                           | Thời gian |
-|-----------|-----------------------------------------------------|-----------|
-| 1         | Setup backend + MySQL + auth, wallet, deposit       | 2–3 ngày  |
-| 2         | Tài Xỉu backend + Socket.IO game loop               | 4–5 ngày  |
-| 3         | Tài Xỉu frontend + animation                        | 3–4 ngày  |
-| 4         | Slot backend + jackpot                              | 3 ngày    |
-| 5         | Slot frontend + animation                           | 3 ngày    |
-| 6         | Leaderboard, History, Deposit form                  | 2–3 ngày  |
-| 7         | Admin panel (duyệt deposit + quản lý game)          | 2–3 ngày  |
-| 8         | Testing & deploy                                    | 2–3 ngày  |
-
----
-
 ## 🧪 Cài đặt và chạy thử
 
 ### Yêu cầu
